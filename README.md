@@ -5,7 +5,7 @@ Players control the snake with arrow keys, eat food to grow longer, and aim for 
 
 ---
 
-## ✨ Features
+## Features
 - Smooth keyboard controls (Arrow keys)
 - Food collection and snake growth
 - Real‑time score tracking
@@ -14,7 +14,7 @@ Players control the snake with arrow keys, eat food to grow longer, and aim for 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 classic-snake-game/
 │
@@ -27,5 +27,13 @@ classic-snake-game/
 ├── scoreboard.py    # Handles score tracking and game over display
 │
 └── data.txt         # Stores the high score persistently
+
+## Technologies Used
+
+- **Python 3**  
+- **Turtle Graphics** – for rendering and visuals  
+- **Object-Oriented Programming (OOP)** – modular design and class-based structure  
+- **File I/O** – saving and loading high scores
+
 
 
