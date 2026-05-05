@@ -1,2 +1,31 @@
 # classic-snake-game
-This is a classic Snake Game implemented in Python using the Turtle graphics library. The game allows players to control the snake using keyboard arrow keys. The objective is to eat food (represented as a dot) to grow longer and increase the score. The game ends when the snake collides with the screen boundaries or with its own body.
+
+A classic Snake Game built with **Python** using the **Turtle Graphics** library.  
+Players control the snake with arrow keys, eat food to grow longer, and aim for the highest score. The game ends when the snake collides with the boundaries or itself.
+
+---
+
+## ✨ Features
+- Smooth keyboard controls (Arrow keys)
+- Food collection and snake growth
+- Real‑time score tracking
+- Collision detection with walls and self
+- Simple, lightweight design using Turtle Graphics
+
+---
+
+## 📂 Project Structure
+
+classic-snake-game/
+│
+├── main.py          # Entry point to run the game
+│
+├── snake.py         # Defines the Snake class (movement, growth, collision detection)
+│
+├── food.py          # Defines the Food class (random placement on screen)
+│
+├── scoreboard.py    # Handles score tracking and game over display
+│
+└── data.txt         # Stores the high score persistently
+
+
