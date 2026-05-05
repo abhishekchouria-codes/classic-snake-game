@@ -1,4 +1,4 @@
-# classic-snake-game
+# classic-snake-game-python
 
 A classic Snake Game built with **Python** and **Turtle Graphics**.  
 Players control the snake with arrow keys, eat food to grow longer, and aim for the highest score. The game ends when the snake collides with the boundaries or itself.
@@ -18,13 +18,13 @@ classic-snake-game/
 ---
 
 ### 2. How to Execute
-1. Clone the repository
+1. Clone the repository  
    git clone https://github.com/abhishekchouria-codes/classic-snake-game-python.git
 
-2. Navigate into the project folder
+2. Navigate into the project folder  
    cd classic-snake-game-python
 
-3. Run the game
+3. Run the game  
    python main.py
 
 ---
