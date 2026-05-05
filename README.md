@@ -29,15 +29,24 @@ classic-snake-game/
 
 ---
 
-### 3. Technologies Used
-- Python 3
-- Turtle Graphics – for rendering and visuals
-- Object-Oriented Programming (OOP) principles
-- File I/O – saving and loading high scores
+### 3. Features
+- Smooth keyboard controls with arrow keys  
+- Food collection and snake growth mechanics  
+- Real-time score tracking with persistent high score  
+- Collision detection with walls and self  
+- Simple, nostalgic design using Turtle Graphics  
 
 ---
 
-### 4. Controls
-- Use Arrow Keys to move the snake
-- Eat the food to grow longer
-- Avoid hitting the walls or yourself
+### 4. Technologies Used
+- Python 3  
+- Turtle Graphics – for rendering and visuals  
+- Object-Oriented Programming (OOP) principles  
+- File I/O – saving and loading high scores  
+
+---
+
+### 5. Controls
+- Use Arrow Keys to move the snake  
+- Eat the food to grow longer  
+- Avoid hitting the walls or yourself  
