@@ -37,4 +37,3 @@ classic-snake-game/
 - **File I/O** – saving and loading high scores
 
 
-
