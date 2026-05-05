@@ -18,15 +18,16 @@ Players control the snake with arrow keys, eat food to grow longer, and aim for 
 
 classic-snake-game/
 │
-├── main.py          # Entry point to run the game
+├── main.py              # Entry point to run the game
 │
-├── snake.py         # Defines the Snake class (movement, growth, collision detection)
+├── snake.py             # Defines the Snake class (movement, growth, collision detection)
 │
-├── food.py          # Defines the Food class (random placement on screen)
+├── food.py              # Defines the Food class (random placement on screen)
 │
-├── scoreboard.py    # Handles score tracking and game over display
+├── scoreboard.py        # Handles score tracking and game over display
 │
-└── data.txt         # Stores the high score persistently
+└── data.txt             # Stores the high score persistently
+
 
 ## Technologies Used
 
